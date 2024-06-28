@@ -15,6 +15,7 @@
 
 4. Isi data Anda.
 ![alt text](image-2.png)
+
 **Catatan:**
 - `namaValue`: Nama
 - `emailValue`: Email
