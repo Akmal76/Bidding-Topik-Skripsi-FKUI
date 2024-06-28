@@ -8,12 +8,15 @@
 1. Siapkan [Tampermonkey](https://www.tampermonkey.net/) pada peramban yang Anda gunakan.
 
 2. Tambahkan *script* baru pada Tampermonkey.
+
 ![alt text](image.png)
 
 3. Salin [`script.js`](script.js).
+
 ![alt text](image-1.png)
 
 4. Isi data Anda.
+
 ![alt text](image-2.png)
 
 **Catatan:**
